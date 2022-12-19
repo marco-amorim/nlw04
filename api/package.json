@@ -10,7 +10,7 @@
 		"posttest": "rm -rf ./src/database/database.test.sqlite"
 	},
 	"dependencies": {
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"express-async-errors": "^3.1.1",
 		"handlebars": "^4.7.7",
 		"nodemailer": "^6.6.1",
